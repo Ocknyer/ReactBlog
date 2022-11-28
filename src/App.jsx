@@ -35,7 +35,7 @@ function App() {
 
   return (
     <UserContext.Provider value={{userId, isLogin}}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path='/' element={<Home/>} />
           <Route path='/blog/:id' element={<BlogDetail/>} />
