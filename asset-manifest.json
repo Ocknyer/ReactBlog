@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactBlog/static/css/main.66ac777d.css",
+    "main.js": "/ReactBlog/static/js/main.8749c484.js",
+    "static/media/background.jpg": "/ReactBlog/static/media/background.9d8ffdf2b026e3a71002.jpg",
+    "static/media/Github.svg": "/ReactBlog/static/media/Github.44eca8266047557a439218d2afc94622.svg",
+    "static/media/Logo.svg": "/ReactBlog/static/media/Logo.ea185720a23355dde4b383c500d5238d.svg",
+    "static/media/Twitter.svg": "/ReactBlog/static/media/Twitter.710e72afc7caf1b555e2ce576d59b6bc.svg",
+    "static/media/icon-modify.svg": "/ReactBlog/static/media/icon-modify.a0c44dddeeb034405fbd.svg",
+    "static/media/Instagram.svg": "/ReactBlog/static/media/Instagram.257baf24eaca6782ee43c4f644618e3e.svg",
+    "static/media/Facebook.svg": "/ReactBlog/static/media/Facebook.3bf3b52a20142d76f4db7786706685a0.svg",
+    "static/media/icon-delete.svg": "/ReactBlog/static/media/icon-delete.cdfd12b1245deea1ae59.svg",
+    "static/media/icon-modify-white.svg": "/ReactBlog/static/media/icon-modify-white.7936232650b55b108bd1.svg",
+    "static/media/icon-save.svg": "/ReactBlog/static/media/icon-save.8857aa83c9b6f312a8f4.svg",
+    "static/media/icon-like.svg": "/ReactBlog/static/media/icon-like.ea57499461b6f402eadd.svg",
+    "static/media/icon-delete-white.svg": "/ReactBlog/static/media/icon-delete-white.b1c660db8a27a74dad21.svg",
+    "static/media/icon-save-white.svg": "/ReactBlog/static/media/icon-save-white.05943bbb17b95d133b6b.svg",
+    "static/media/icon-like-white.svg": "/ReactBlog/static/media/icon-like-white.547a2a003e8f8143fc9c.svg",
+    "static/media/ArrowLeft-blue.svg": "/ReactBlog/static/media/ArrowLeft-blue.a8f040986b41c7713bf5.svg",
+    "static/media/ArrowTop.svg": "/ReactBlog/static/media/ArrowTop.31b9123f76deea3066cd.svg",
+    "index.html": "/ReactBlog/index.html",
+    "main.66ac777d.css.map": "/ReactBlog/static/css/main.66ac777d.css.map",
+    "main.8749c484.js.map": "/ReactBlog/static/js/main.8749c484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ac777d.css",
+    "static/js/main.8749c484.js"
+  ]
+}
