@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.2.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.3",
@@ -23,7 +24,7 @@
     "eject": "react-scripts eject",
     "serve": "serve -s build",
     "build-and-serve": "npm run build && npm run serve",
-    "deploy": "cp build/index.html && gh-pages -d build"
+    "deploy": "cp build/index.html build/404.html && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
