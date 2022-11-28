@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Ocknyer/ReactBlog.git",
+  "homepage": "https://ocknyer.github.io/ReactBlog/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -23,7 +23,7 @@
     "eject": "react-scripts eject",
     "serve": "serve -s build",
     "build-and-serve": "npm run build && npm run serve",
-    "deploy": "cp build/index.html build/404.html && gh-pages -d build"
+    "deploy": "cp build/index.html && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
